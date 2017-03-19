@@ -1,0 +1,56 @@
+ body{
+ 	background-color: #DFD1ED;
+ }
+.nevse{
+	background: white;
+	border: 1px solid white;
+	margin: 10px 350px 10px;
+	padding: 40px;
+	font-size: 18px
+}
+.seredina{
+	padding-left: 80px;
+}
+.kartinka{
+	padding-left: 115px;
+}
+.sdvig1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	border-bottom: 1px solid #0D0C0D;
+}
+.sdvig2{
+    padding-left: 25px; 
+}
+.a1{
+	padding-bottom: 10px;
+	border-bottom: 1px solid #0D0C0D;
+}
+.sdvig3{
+	padding-top: 10px;
+	border-top: 1px solid #0D0C0D;
+    padding-left: 25px;
+}
+.sdvig4{
+	padding-top: 10px;
+    padding-left: 25px;
+}
+.sdvig5{
+	padding-top: 20px;
+    padding-left: 25px;
+}
+.sdvig6{
+	padding-top: 10px;
+	padding-bottom: 10px;
+    padding-left: 25px;
+    border-bottom: 1px solid #0D0C0D;
+}
+.sdvig7{
+	padding-top: 20px;
+    padding-left: 25px;
+}
+.sdvig8{
+	padding-top: 10px;
+    padding-left: 25px;
+}
