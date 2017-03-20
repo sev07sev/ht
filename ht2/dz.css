@@ -1,6 +1,6 @@
 /*переподключить шрифт!!!!!!!!!!!!!*/
 body {
-	font-family: OpenSansRegular;
+	font-family: OpenSansRegular, serif, sans-serif;
 	font-size: 13px;
 	background-color: #f9f9f9;	
 }
@@ -18,8 +18,7 @@ li {
 .wrapper {
 	margin: auto;
 	padding: 50px 48px 60px 46px;
-	width: 1060px;
-	background-color: #ffffff;
+	width: 1060px;	
 	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
 }
 /*..........................HEADER...........................*/
@@ -85,7 +84,7 @@ li {
 	left: 20px;
 }
 .img2 {
-	padding: 47px 89px 46px;
+	padding: 47px 129px 89px 46px;
 	border: 1px solid #c8c8c8;
 }
 .lorem {
